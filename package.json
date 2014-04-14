@@ -1,0 +1,21 @@
+{
+    "name": "qdb",
+    "description": "Promise utilities for Sequelize models",
+    "homepage": "https://github.com/SkPhilipp/QDB",
+    "version": "0.0.1",
+    "main": "lib/index.js",
+    "dependencies": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SkPhilipp/QDB.git"
+    },
+    "keywords": [
+        "q",
+        "promise",
+        "promises",
+        "sequelize",
+		"sql"
+    ],
+    "license": "MIT"
+}
