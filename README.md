@@ -12,7 +12,7 @@ Define a model in sequelize and create a `Qdb` instance for the model.
 var Sequelize = require('sequelize');
 var Qdb = require('q-db');
 
-	var sequelize = new Sequelize('somethingsomethingmysql');
+var sequelize = new Sequelize('somethingsomethingmysql');
 
 var user = sequelize.define('user', {
     id       : { type: Sequelize.INTEGER, autoIncrement: true, primaryKey: true },
