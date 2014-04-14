@@ -1,5 +1,5 @@
 {
-    "name": "qdb",
+    "name": "q-db",
     "description": "Promise utilities for Sequelize models",
     "homepage": "https://github.com/SkPhilipp/QDB",
     "version": "0.0.1",
