@@ -9,7 +9,7 @@ Usage
 Define a model in sequelize and create a `Qdb` instance for the model.
 
     var Sequelize = require('sequelize');
-    var Qdb = require('./qdb');
+    var Qdb = require('q-db');
 
 	var sequelize = new Sequelize('somethingsomethingmysql');
 
