@@ -1,6 +1,8 @@
 QDB
 ===
 
+_This project is no longer maintained and part of my source code "attic". Do not use this repository without fully understanding the code._
+
 Promise utilities for Sequelize models.
 
 Usage
